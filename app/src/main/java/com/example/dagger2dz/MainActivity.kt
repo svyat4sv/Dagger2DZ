@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var dogViewModel: DogViewModel
 
     @Inject
-    lateinit var dog: Dog
+    lateinit var dog1: Dog
 
     @Inject
     lateinit var dogViewModelFactory: DogViewModelFactory
