@@ -8,5 +8,6 @@ class App : Application() {
     override fun onCreate() {
         super.onCreate()
         myComponent = DaggerMyComponent.builder().build()
+        //hello world
     }
 }
