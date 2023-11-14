@@ -2,7 +2,7 @@ package com.example.dagger2dz
 
 import dagger.Component
 
-@Component(modules = [DogModuless::class])
+@Component(modules = [DogModulesssssssssssssssssssssss::class])
 interface MyComponent {
     @Component.Builder
     interface Builder {
